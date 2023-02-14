@@ -11,7 +11,7 @@
 <div align="center">
   <h3>Stats</h3>
   
-  <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Ge0rg3e&hide_border=true&title_color=ce2323&theme=react&layout=compact"/>
+<!--   <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Ge0rg3e&hide_border=true&title_color=ce2323&theme=react&layout=compact"/> -->
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ge0rg3e&hide_border=true&title_color=ce2323&theme=react&layout=compact"/>
 </div>
