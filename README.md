@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">  
-  <img title="My skills" src="https://skillicons.dev/icons?i=ts,react,nextjs,sass,express,mysql,nodejs,nginx,docker,git"/>
+  <img title="My skills" src="https://skillicons.dev/icons?i=ts,react,nextjs,sass,express,mysql,nodejs,nginx,docker,git,linux"/>
 </div>
 <br />
 <div align="center">
